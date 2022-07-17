@@ -7,7 +7,7 @@
 
 ---
 
-![Virtualization.png](%5BAWS%5D%201%20%E1%84%8F%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A1%E1%84%8B%E1%85%AE%E1%84%83%E1%85%B3%20%E1%84%8F%E1%85%A5%E1%86%B7%E1%84%91%E1%85%B2%E1%84%90%E1%85%B5%E1%86%BC%E1%84%80%E1%85%AA%20AWS%20%E1%84%80%E1%85%A2%E1%84%8B%E1%85%AD%20f2df92b228014aa19f2b7e0f33b2cb9f/Virtualization.png)
+![Virtualization.png](https://github.com/suh1027/AWS_SAA_STUDY/blob/main/%5BAWS%5D%201%20%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%20%EC%BB%B4%ED%93%A8%ED%8C%85%EA%B3%BC%20AWS%20%EA%B0%9C%EC%9A%94/Virtualization.png?raw=true)
 
 - **가상화 (Virtualization)**
     - 가상화는 물리적인 컴포넌트를 논리적인 객체로 추상화 하는 것
