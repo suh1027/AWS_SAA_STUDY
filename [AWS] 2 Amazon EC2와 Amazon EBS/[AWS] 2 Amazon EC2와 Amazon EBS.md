@@ -55,7 +55,7 @@
 | 가속 컴퓨팅 | 고성능의 범용 그래픽 프로세싱 유닛이 탑재된 타입 (G,P), F 타입의 경우는 FPGA (Field Programmable Gate Array) 사용 가능, 3D 시각화, 랜더링, 금융분석, 컴퓨팅 기반 유체역학 워크로드 처리에 주로 사용 |
 | 스토리지 최적화 | 대용량 스토리지 볼륨을 탑제한 스토리지 최적화 인스턴스 (H,I,D), I타입의 경우 60TB 의 HDD 스토리지를 선택하여 분산 파일 시스템 또는 고용량 데이터처리 어플리케이션 구현에 활용 가능하다. |
 
-![Untitled](%5BAWS%5D%202%20Amazon%20EC2%E1%84%8B%E1%85%AA%20Amazon%20EBS%208ba9153f3f404d3eacc854d4e998ac53/Untitled.png)
+![Untitled](https://github.com/suh1027/AWS_SAA_STUDY/blob/main/%5BAWS%5D%202%20Amazon%20EC2%EC%99%80%20Amazon%20EBS/Untitled.png?raw=true)
 
 - **EC2 인스턴스 환경설정**
     - 리전 : 인스턴스, EC2 리소스는 해당 리전 내에서만 관리 할 수 있다.
@@ -96,7 +96,7 @@
 
 - **인스턴스** **라이프사이클**
 
-![Untitled](%5BAWS%5D%202%20Amazon%20EC2%E1%84%8B%E1%85%AA%20Amazon%20EBS%208ba9153f3f404d3eacc854d4e998ac53/Untitled%201.png)
+![Untitled](https://github.com/suh1027/AWS_SAA_STUDY/blob/main/%5BAWS%5D%202%20Amazon%20EC2%EC%99%80%20Amazon%20EBS/Untitled%201.png?raw=true)
 
 | Pending | 인스턴스는 running 상태로 될 준비를 하고 있습니다. 인스턴스를 처음 시작하거나 pending 상태의 인스턴스를 다시 시작하면 stopped  상태 | 미청구 |
 | --- | --- | --- |
@@ -169,7 +169,7 @@ NAT 게이트웨이 | NAT 디바이스를 사용하여 인터넷 연결 허용 �
     - 런치 환경설정 또는 런치 템플릿을 이용하여 인스턴스의 환경을 자동으로 설정
     
 
-![Untitled](%5BAWS%5D%202%20Amazon%20EC2%E1%84%8B%E1%85%AA%20Amazon%20EBS%208ba9153f3f404d3eacc854d4e998ac53/Untitled%202.png)
+![Untitled](https://github.com/suh1027/AWS_SAA_STUDY/blob/main/%5BAWS%5D%202%20Amazon%20EC2%EC%99%80%20Amazon%20EBS/Untitled%202.png?raw=true)
 
 - **Launch** **환경설정**
     - 인스턴스를 직접 프로비저닝 할때 지정하는 것과 동일한 정보를 담은 문서
